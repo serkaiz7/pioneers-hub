@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
+    apiKey: "AIzaSyDzYgSTPi4S9v3DT7zzRG_yLPVjN6JedII",
     authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
+    projectId: "pioneers-hub",
     storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    messagingSenderId: "BNmlQQH1IIoI7cSiSfPN2oU3F72pc9SIwh7dXWEymb6jZH2O-HN0r1K5oYMg5BsCD_DDNtILm78Shxg21XK0fcg",
     appId: "YOUR_APP_ID"
 };
 
